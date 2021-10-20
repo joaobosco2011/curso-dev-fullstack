@@ -1,0 +1,13 @@
+body{
+    background-color: rgb(198, 202, 202);
+}
+
+
+.foto-principal{
+    border: 5px solid #ffffff; /* shorthand */
+    border-radius: 15% 5% 40%;
+    width: 300px;
+    margin: 10px 20px 30px 40px;
+    
+}
+

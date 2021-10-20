@@ -1,0 +1,15 @@
+body{
+    background-color: rgb(198, 202, 202);
+}
+
+
+.foto-principal{
+    border: 5px solid #ffffff; /* shorthand */
+    border-radius: 30% 5% 30% 5%;
+    width: 300px;
+    /*border-width: 5px;
+      border-style: solid;
+      border-color: whitesmoke;
+    */
+}
+
