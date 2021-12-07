@@ -1,0 +1,43 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    font-family: sans-serif;
+}
+
+.header {
+    background-color: gray;
+    text-align: center;
+    padding: 50px 0;
+    font-size: 40px;
+}
+
+.container {
+    display: flex;
+}
+
+.nav-bar {
+    width: 30%;
+    padding: 30px;
+    background-color: #a3a3a3;
+}
+
+.nav-bar ul li {
+    list-style: none;
+}
+
+.content {
+    width: 70%;
+    padding: 30px;
+    background-color: #d8d8d8;
+}
+
+.footer {
+    background-color: grey;
+    text-align: center;
+    padding: 20px 0;
+}
+
